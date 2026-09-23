@@ -110,7 +110,7 @@
 | Capybara | 243 |
 | Frog | 300 |
 | Dog | 102 |
-| Robot | 122 |
+| Robot | 230 |
 
 ## Gross Anatomy & Mutation Excess
 | Mutation | Code |

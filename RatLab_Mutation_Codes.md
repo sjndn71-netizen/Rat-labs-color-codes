@@ -197,6 +197,3 @@
 | Glitter Trail | 3-0-2 | The rat leaves a sparkling trail of glitter everywhere it walks. |
 
 ---
-
-*Total: 129 Mutations | Codes = Red-Green-Blue (0–4 each)*
-*All 129 mutation descriptions complete!*

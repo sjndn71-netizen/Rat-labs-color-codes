@@ -1,6 +1,4 @@
 # Rat Lab — All Mutation Codes + Descriptions
-*Codes are entered as Red-Green-Blue (0–4 each)*
-
 ---
 
 ## Physical Size & Scale Changes (10/10)
@@ -93,7 +91,7 @@
 
 ---
 
-## Body Part & Anatomy Mutations (14/15)
+## Body Part & Anatomy Mutations (15/15)
 | Mutation | Code | Effect |
 |---|---|---|
 | Rudolph | 0-3-0 | A glowing neon-red nose appears on the rat. |

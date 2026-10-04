@@ -1,4 +1,4 @@
-# Rat Lab — All Mutation Codes + Descriptions
+# Rat Lab — All Mutation Codes
 ---
 
 ## Physical Size & Scale Changes (10/10)

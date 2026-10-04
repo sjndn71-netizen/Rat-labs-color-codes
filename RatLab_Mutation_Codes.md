@@ -4,7 +4,7 @@
 ## Physical Size & Scale Changes (10/10)
 | Mutation | Code | Effect |
 |---|---|---|
-| Gigantism | 2-3-2 | Grows the rat to 300% size and triples its maximum health. |
+|## Gigantism | 2-3-2 | Grows the rat to 300% size and triples its maximum health. |
 | Dwarfism | 1-1-2 | Shrinks the rat to 25% size and halves its maximum health. |
 | Elongation | 1-3-0 | Stretches the torso long and low so the rat reads like a ferret. |
 | Flattened | 0-2-4 | Squashes the avatar along its depth axis into a 2D pancake. |

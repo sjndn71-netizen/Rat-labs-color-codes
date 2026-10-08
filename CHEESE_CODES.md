@@ -1,5 +1,5 @@
 ## Cheese List (19/19)
-Code format: Cheddar-Swiss-Blue. Max 3 cheeses combined.
+Code format: Cheddar-Swiss-Blue.
 
 ### Recipes (14)
 | Recipe | Code | Effect |

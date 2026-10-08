@@ -1,6 +1,7 @@
 # Rat Lab — All Mutation Codes
 Discord Server:https://discord.gg/3DV86a8Ud
 ---
+20 NEW CODES ADDED AT BOTTOM
 
 ## Physical Size & Scale Changes (10/10)
 | Mutation | Code | Effect |
@@ -185,9 +186,7 @@ Discord Server:https://discord.gg/3DV86a8Ud
 | Heart Attack | 2-0-2 | A hidden fuse of somewhere between 10 and 90 seconds, and then the rat dies. |
 | Weak | 4-0-2 | The rat is too feeble to jump at all. |
 | Supernova | 4-1-1 | The rat swells to ten times its size over five seconds, going blinding white, and then detonates. |
-
 ---
-
 ## Extra (5/5)
 | Mutation | Code | Effect |
 |---|---|---|
@@ -196,5 +195,29 @@ Discord Server:https://discord.gg/3DV86a8Ud
 | Paper Thin | 2-1-4 | The rat is replaced by a flat billboard picture of a rat that always faces the camera. |
 | Dense | 2-3-4 | The rat becomes enormously heavy — slow, low-jumping and impossible to shove. |
 | Glitter Trail | 3-0-2 | The rat leaves a sparkling trail of glitter everywhere it walks. |
+---
+## Tier 5 Mutations (20/25)
+| Mutation | Code | Effect |
+|---|---|---|
+| Peacock Tail | 5-0-0 | A fan of glowing eye-feathers that opens when you stand still and hypnotises onlookers. |
+| Dizzy | 5-0-1 | Your head swims: the room tilts, you drift sideways as you walk, and stars circle your head. |
+| Death Cloud | 5-0-2 | Dying releases a lingering cloud of poison gas. |
+| Alarm Rat | 5-0-3 | A siren on your head. Everyone in earshot sees you glowing red through the walls. |
+| Contagious Yawn | 5-1-0 | Every so often you yawn, and any rat looking at you falls asleep too. |
+| Skunk Stripe | 5-1-1 | Black fur with a white stripe. Getting hit releases a stink cloud that slows and sickens. |
+| Narcolepsy | 5-1-2 | Now and then you simply fall asleep where you stand. |
+| Lizard Tail | 5-1-3 | Take a real hit and the tail drops off as a wriggling decoy while you bolt. |
+| Martyr | 5-2-0 | A halo. Dying heals every rat nearby to full. |
+| Unicorn | 5-2-1 | A spiral horn, a rainbow mane and a rainbow trail. Every few seconds the horn heals you and every ally around you. |
+| Tusks | 5-2-2 | Huge curved tusks. Charge into someone at a run and they go flying. |
+| Boombox | 5-2-3 | A boombox on your back. Stand still and you dance, and so does every rat within earshot. |
+| Fairy | 5-3-0 | Glittering wings and a flower crown. Jump again in mid-air to flutter higher, and drift down like a leaf. |
+| Syringe Tail | 5-3-1 | A lab syringe fused to the rump. Every bite injects the victim with a random mutation. |
+| Hot Potato | 5-3-2 | A lit bomb on your back. Bite someone to pass it; whoever holds it when the fuse ends pops. |
+| Jellyfish Tendrils | 5-3-3 | Translucent and glowing, trailing stinging tendrils that stun anyone who walks through them. |
+| Phase Shift | 5-4-0 | Every few seconds you flicker out of phase and walk straight through walls for a moment. |
+| Beaver Teeth | 5-4-1 | Enormous orange incisors. Bites hit twice as hard and spray wood chips. |
+| Hive Host | 5-4-2 | Wasps nest in your swelling belly. When it bursts you die and the swarm hunts whoever is near. |
+| Jumpscare | 5-4-3 | Glowing white eyes. Anyone who gets close and looks at you gets your face slammed onto their screen. |
 
 ---
